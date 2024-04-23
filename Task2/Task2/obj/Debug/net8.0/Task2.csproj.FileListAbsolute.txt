@@ -1,0 +1,15 @@
+D:\C#\Task2\Task2\bin\Debug\net8.0\Task2.exe
+D:\C#\Task2\Task2\bin\Debug\net8.0\Task2.deps.json
+D:\C#\Task2\Task2\bin\Debug\net8.0\Task2.runtimeconfig.json
+D:\C#\Task2\Task2\bin\Debug\net8.0\Task2.dll
+D:\C#\Task2\Task2\bin\Debug\net8.0\Task2.pdb
+D:\C#\Task2\Task2\obj\Debug\net8.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Task2\Task2\obj\Debug\net8.0\Task2.AssemblyInfoInputs.cache
+D:\C#\Task2\Task2\obj\Debug\net8.0\Task2.AssemblyInfo.cs
+D:\C#\Task2\Task2\obj\Debug\net8.0\Task2.csproj.CoreCompileInputs.cache
+D:\C#\Task2\Task2\obj\Debug\net8.0\Task2.sourcelink.json
+D:\C#\Task2\Task2\obj\Debug\net8.0\Task2.dll
+D:\C#\Task2\Task2\obj\Debug\net8.0\refint\Task2.dll
+D:\C#\Task2\Task2\obj\Debug\net8.0\Task2.pdb
+D:\C#\Task2\Task2\obj\Debug\net8.0\Task2.genruntimeconfig.cache
+D:\C#\Task2\Task2\obj\Debug\net8.0\ref\Task2.dll
