@@ -1,0 +1,15 @@
+D:\C#\Task4\Task4\bin\Debug\net8.0\Task4.exe
+D:\C#\Task4\Task4\bin\Debug\net8.0\Task4.deps.json
+D:\C#\Task4\Task4\bin\Debug\net8.0\Task4.runtimeconfig.json
+D:\C#\Task4\Task4\bin\Debug\net8.0\Task4.dll
+D:\C#\Task4\Task4\bin\Debug\net8.0\Task4.pdb
+D:\C#\Task4\Task4\obj\Debug\net8.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Task4\Task4\obj\Debug\net8.0\Task4.AssemblyInfoInputs.cache
+D:\C#\Task4\Task4\obj\Debug\net8.0\Task4.AssemblyInfo.cs
+D:\C#\Task4\Task4\obj\Debug\net8.0\Task4.csproj.CoreCompileInputs.cache
+D:\C#\Task4\Task4\obj\Debug\net8.0\Task4.sourcelink.json
+D:\C#\Task4\Task4\obj\Debug\net8.0\Task4.dll
+D:\C#\Task4\Task4\obj\Debug\net8.0\refint\Task4.dll
+D:\C#\Task4\Task4\obj\Debug\net8.0\Task4.pdb
+D:\C#\Task4\Task4\obj\Debug\net8.0\Task4.genruntimeconfig.cache
+D:\C#\Task4\Task4\obj\Debug\net8.0\ref\Task4.dll
